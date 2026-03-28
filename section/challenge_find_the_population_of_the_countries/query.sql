@@ -1,0 +1,2 @@
+SELECT Population
+FROM Country
